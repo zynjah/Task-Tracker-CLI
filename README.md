@@ -1,4 +1,4 @@
-# Task CLI
+# Task Tracker CLI
 
 A command-line task tracker written in Java. It uses only the JDK and stores
 tasks in `tasks.json` in the current working directory.
@@ -48,3 +48,6 @@ task's ID; use that ID for updating, deleting, and changing its status.
 Each task in `tasks.json` has an `id`, `description`, `status`, `createdAt`, and
 `updatedAt`. Status is one of `todo`, `in-progress`, or `done`. Updating a task
 or changing its status refreshes `updatedAt`; `createdAt` stays unchanged.
+
+## Project
+https://roadmap.sh/projects/task-tracker
