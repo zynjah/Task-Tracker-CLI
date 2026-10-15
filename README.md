@@ -1,4 +1,4 @@
-# Task Tracker CLI
+# Task CLI
 
 A command-line task tracker written in Java. It uses only the JDK and stores
 tasks in `tasks.json` in the current working directory.
