@@ -49,5 +49,5 @@ Each task in `tasks.json` has an `id`, `description`, `status`, `createdAt`, and
 `updatedAt`. Status is one of `todo`, `in-progress`, or `done`. Updating a task
 or changing its status refreshes `updatedAt`; `createdAt` stays unchanged.
 
-## Project
+## Project by:
 https://roadmap.sh/projects/task-tracker
